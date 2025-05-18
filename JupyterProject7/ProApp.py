@@ -84,7 +84,7 @@ st.sidebar.image("FSTMlogo.png", use_column_width=True)
 st.sidebar.title("À propos")
 st.sidebar.markdown(
     """
-    **Étudiant :** Drissi Marwane  
+    **Étudiant :** Drissi Marwane, Bensaid Hiba, Moussadek Hibat allah, Ouzzane Jamila
     **Encadré par :** Prof. N Azouagh  
     **Université :** Hassan II - Casablanca  
     **Département :** Mathématiques  
